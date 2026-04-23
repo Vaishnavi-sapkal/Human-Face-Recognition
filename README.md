@@ -123,7 +123,7 @@ Input: 512-dimensional ArcFace embedding (L2-normalized)
 
 **Step 1 — Clone the repository**
 ```bash
-git clone https://github.com/your-username/face-recognition-arcface.git
+git clone https://github.com/Vaishnavi-sapka/face-recognition-arcface.git
 cd face-recognition-arcface
 ```
 
